@@ -1,0 +1,6 @@
+{
+  "name": "SSF Analytics - Stockpile & Standby Funds Visualizer",
+  "description": "Executive data visualization platform for Stockpile and Standby Funds (SSF) monitoring reports with multi-sheet analytics, customizable interactive charts, real-time sync, and PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
